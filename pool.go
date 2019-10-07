@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file at https://golang.org/LICENSE?m=text
 
 // This package provides the worker pool implementation from Bryan C. Mills' 2018 Gophercon talk.
-package main
+package pool
 
 import (
 	"context"
